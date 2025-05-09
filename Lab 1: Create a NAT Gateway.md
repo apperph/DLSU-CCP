@@ -120,6 +120,7 @@ Both NAT Gateways and NAT Instances allow private instances to access the intern
 - Managed service
 - High bandwidth
 - Cost-effective for high traffic
+  
 **NAT Instances:**
 - More control
 - Lower cost for low traffic
